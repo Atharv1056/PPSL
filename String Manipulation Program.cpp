@@ -9,7 +9,7 @@ int main()
   cout<<"Concatenation:"<<greeting<<endl;
   // Substring
 
-string part = greeting.substr(7, 5); // Extracts "World"
+string part = greeting.substr(6, 5); // Extracts "World"
 
 cout << "Substring: " << part << endl;
 // Find
